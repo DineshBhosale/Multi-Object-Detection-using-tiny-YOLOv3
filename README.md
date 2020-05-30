@@ -86,3 +86,9 @@ To perform prediction
 `python predict.py -c config.json -i /path/to/image/or/video`
 
 The predicted image will be saved to the output folder.
+
+
+
+The base of the project was referred from experiencor. 
+
+Github Link - https://github.com/experiencor/keras-yolo3
