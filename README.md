@@ -13,6 +13,10 @@ pip install -r requirements.txt
 ```
 Convert the annotations of the BDD dataset from json to xml format.
 
+
+Specify the location of the json file and the directory where the images are stored.
+
+
 ```bash
 python convert.py
 ```
